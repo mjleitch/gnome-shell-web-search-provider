@@ -11,7 +11,7 @@ It is very much a work in progress.
     GNOME Shell extensions:
 
     ```bash
-    $ git clone https://github.com/mrakow/gnome-shell-web-search-provider ~/.local/share/gnome-shell/extensions/gnome-shell-web-search-provider@mrakow.github.com
+    $ git clone https://github.com/mjleitch/gnome-shell-web-search-provider ~/.local/share/gnome-shell/extensions/gnome-shell-web-search-provider@mjleitch.github.com
     ```
 2.  Restart GNOME Shell by typing <kbd>Alt</kbd>+<kbd>F2</kbd>, <kbd>r</kbd>,
     and then <kbd>Enter</kbd>.
@@ -45,8 +45,7 @@ browser.
 
 ## Acknowledgements
 
-As development documentation for GNOME Shell search providers is sparse, I have
-based this extension on [Wikidata Search
+As development documentation for GNOME Shell search providers is sparse, this extension is based on [Wikidata Search
 Provider](https://github.com/bmansurov/wikidata-search-provider) by Bahodir
 Mansurov.
 
